@@ -6,4 +6,9 @@ node_modules/
 /.idea/
 .DS_Store
 /.DS_Store
-
+.cache/
+/.cache/
+/.cache
+/dist/
+dist/
+/dist
